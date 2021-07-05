@@ -1,5 +1,18 @@
 
 # TicTactoe
+
+Using CollectionView
+
+*Making Simple TicTacToe Using CollectionView
+
+UIElements
+ *UILabel
+*UITextview
+*UIButton
+*UITableViewDelegate
+*UICollectionView
+
+
 ![macOS Mojave - VMware Workstation 15 Player (Non-commercial use only) 05-07-2021 18_20_53 (2)](https://user-images.githubusercontent.com/85922433/124475113-fb070c80-ddbe-11eb-8586-8edaf1cea1e5.png)
 
 ![macOS Mojave - VMware Workstation 15 Player (Non-commercial use only) 05-07-2021 18_23_24 (2)](https://user-images.githubusercontent.com/85922433/124475120-fd696680-ddbe-11eb-8f43-be2559543293.png)
