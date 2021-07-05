@@ -1,17 +1,21 @@
+TicTacToe
 
-# TicTactoe
+*Using CollectionView
 
-Using CollectionView
+  Making Simple TicTacToe Using CollectionView
+  
+  
+*UIElements Used
 
-@Making Simple TicTacToe Using CollectionView
+*UILabel
 
-UIElements Used
+*UITextview
 
-@UILabel
-@UITextview
-@UIButton
-@UITableViewDelegate
-@UICollectionView
+*UIButton
+
+*UITableViewDelegate
+
+*UICollectionView
 
 
 ![macOS Mojave - VMware Workstation 15 Player (Non-commercial use only) 05-07-2021 18_20_53 (2)](https://user-images.githubusercontent.com/85922433/124475113-fb070c80-ddbe-11eb-8586-8edaf1cea1e5.png)
